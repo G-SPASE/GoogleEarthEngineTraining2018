@@ -22,3 +22,6 @@ https://explorer.earthengine.google.com/#workspace
 
 * Nick Clinton's Presentation file (Earth Engine Developer Relations)
 https://goo.gl/THU4Y9
+
+* 文系のための「Google Earth Engine の Code Editor」 by [Yu FUJIMOTO](https://cis-jp.blogspot.com/)
+https://cis-jp.blogspot.com/2018/05/3.html
