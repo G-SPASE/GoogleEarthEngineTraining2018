@@ -2,6 +2,8 @@
 Google Earth Engine レクチャー用レポジトリ
 管理者： [古橋（青山学院大学）](https://github.com/mapconcierge)
 
+![googleearthengine](https://user-images.githubusercontent.com/416977/41135828-5c6ee42e-6b0e-11e8-8628-2b43b35074b5.png)
+
 
 ## Google Earth Engine 
 
@@ -11,7 +13,7 @@ https://code.earthengine.google.com/
 ### Explorer
 https://explorer.earthengine.google.com/#workspace
 
----
+
 
 ## 資料
 ### 2018/06/08 @ 慶應義塾大学日吉キャンパス
