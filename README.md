@@ -18,6 +18,7 @@ https://explorer.earthengine.google.com/#workspace
 ## 資料
 ### 2018/06/08 @ 慶應義塾大学日吉キャンパス
 * Taichi's Presentation file
+
 https://speakerdeck.com/mapconcierge/google-earth-engine-tiyutoriaru-for-g-spase-2018?slide=1
 
 * Nick Clinton's Presentation file (Earth Engine Developer Relations)
