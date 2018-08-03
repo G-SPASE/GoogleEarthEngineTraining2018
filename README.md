@@ -27,6 +27,8 @@ https://speakerdeck.com/mapconcierge/20180803-g-spaseru-men-kosu-google-earth-pr
 * 課題06 元画像データ
 ![hiyoshi_osm_map](https://user-images.githubusercontent.com/416977/43634171-5ece2040-9746-11e8-8093-9478883fe56e.png)
 
+* Google Earth Engine 練習用ドローン空撮画像 © CrisisMappers Japan/DRONEBIRD, CC BY 4.0
+https://code.earthengine.google.com/?accept_repo=users/mapconcierge/publish
 
 ### 2018/06/08 @ 慶應義塾大学日吉キャンパス
 * Taichi's Presentation file
