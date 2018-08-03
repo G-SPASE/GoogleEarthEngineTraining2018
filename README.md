@@ -19,8 +19,10 @@ https://explorer.earthengine.google.com/#workspace
 
 ### 2018/08/03 @ 慶應義塾大学日吉キャンパス
 * Taichi's Presentation file "Google Earth Pro" 
+https://speakerdeck.com/mapconcierge/20180803-g-spaseru-men-kosu-google-earth-pro
 
 * Taichi's Presentation file "Google Earth Engine"
+
 
 * 課題06 元画像データ
 ![hiyoshi_osm_map](https://user-images.githubusercontent.com/416977/43634171-5ece2040-9746-11e8-8093-9478883fe56e.png)
